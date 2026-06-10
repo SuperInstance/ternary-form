@@ -1,4 +1,6 @@
 [package]
+description = "ternary-form - SuperInstance ecosystem crate"
+repository = "https://github.com/SuperInstance/ternary-form"
 name = "ternary-form"
 version = "0.1.0"
 edition = "2024"
